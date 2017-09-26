@@ -1,0 +1,1 @@
+export const RECIEVE_VENUES = 'RECIEVE_VENUES';
